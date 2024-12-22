@@ -1,0 +1,20 @@
+ul {
+    border: 1px solid rgb(25, 162, 25);
+    padding: 10px;
+}
+
+li{
+
+color: crimson;
+
+}
+
+p.bg{
+    background-color: #7fffd4;
+    color: yellow;
+}
+
+.bg-opacity{
+    background-color: greenyellow;
+    opacity: 0.4;
+}
